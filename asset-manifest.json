@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-executor-demo/static/css/main.4140abe5.css",
+    "main.js": "/word-executor-demo/static/js/main.0b635d13.js",
+    "static/js/453.60e11209.chunk.js": "/word-executor-demo/static/js/453.60e11209.chunk.js",
+    "index.html": "/word-executor-demo/index.html",
+    "main.4140abe5.css.map": "/word-executor-demo/static/css/main.4140abe5.css.map",
+    "main.0b635d13.js.map": "/word-executor-demo/static/js/main.0b635d13.js.map",
+    "453.60e11209.chunk.js.map": "/word-executor-demo/static/js/453.60e11209.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4140abe5.css",
+    "static/js/main.0b635d13.js"
+  ]
+}
